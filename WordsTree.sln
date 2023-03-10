@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsTree", "WordsTree\WordsTree.csproj", "{B87C5599-05A2-4EC3-95AD-DCB8E4B5C62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87C5599-05A2-4EC3-95AD-DCB8E4B5C62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87C5599-05A2-4EC3-95AD-DCB8E4B5C62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87C5599-05A2-4EC3-95AD-DCB8E4B5C62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87C5599-05A2-4EC3-95AD-DCB8E4B5C62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2B1C5E-DCA1-4952-8F80-2FAC99902A0E}
+	EndGlobalSection
+EndGlobal
